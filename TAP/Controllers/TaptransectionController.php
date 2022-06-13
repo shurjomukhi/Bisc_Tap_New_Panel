@@ -13,7 +13,7 @@ use App\Modules\LESSIONSPLAN\Models\LessionPlan;
 use Illuminate\Support\Facades\Response;
 use Illuminate\Support\Facades\Log;
 
-class TestController extends Controller
+class TaptransectionController extends Controller
 {
     
     public function index()
